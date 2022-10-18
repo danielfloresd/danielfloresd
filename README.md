@@ -1,6 +1,6 @@
 <section class="hero">
         <div>
-            <img src="./assets/images/mypicture.png.jpg" id="mypicture" alt="Daniel Fores
+            <img src="mypicture.png.jpg" id="mypicture" alt="Daniel Fores
                     Picture">
         </div>
         <h2>
