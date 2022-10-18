@@ -4,7 +4,7 @@
                     Picture">
         </div>
         <h2>
-            Full-Time Technology Entrepreneur
+        Technology Entrepreneur
         </h2>
     </section>
         <div class="title">
