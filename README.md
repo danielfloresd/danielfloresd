@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Flores</h1>
-<h3 align="center">Innovator and software engineer with 20+ of experience in the design, development, and implementation of multiple embedded systems for fleet management and equipment operator safety. Experienced in all aspects of the business from start-up, development, and operations. Strong believer in lifelong learning.</h3>
+<h3 align="center">Innovator and software engineer with 20+ of experience in the design, development, and implementation embedded systems. Experienced in all aspects of the business from start-up, development, and operations. Strong believer in lifelong learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielfloresd&label=Profile%20views&color=0e75b6&style=flat" alt="danielfloresd" /> </p>
 
