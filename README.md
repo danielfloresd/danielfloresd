@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **jQuery, Bootstrap, Semantic-UI and Node.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/danielfloresd/webdeveloper-portfolio](www.danielfloresd.com)
+- 👨‍💻 All of my projects are available at [(www.danielfloresd.com)](https://github.com/danielfloresd/webdeveloper-portfolio)
 
 - 💬 Ask me about **JavaScript, Java, Ruby and C++**
 
