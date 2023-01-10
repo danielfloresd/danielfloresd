@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danielfloresd" alt="danielfloresd" /></a> </p>
 
-- 🔭 Aptly Maintenance Portal [Aptly Maintenance Portal](https://maintenance-portal.herokuapp.com/)
+- 🔭 [Aptly Maintenance Portal](https://maintenance-portal.herokuapp.com/)
 
 - 🌱 I’m currently learning **jQuery, Bootstrap, Semantic-UI and Node.js**
 
