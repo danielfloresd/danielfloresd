@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danielfloresd" alt="danielfloresd" /></a> </p>
 
-- 🔭 [Aptly Maintenance Portal](https://maintenance-portal.herokuapp.com/)
+- 🔭 React
 
-- 🌱 I’m currently learning **jQuery, Bootstrap, Semantic-UI and Node.js**
+- 🌱 I’m currently learning **Mongo and React**
 
 - 👨‍💻 All of my projects are available at [(www.danielfloresd.com)](https://danielfloresd.github.io/webdeveloper-portfolio/)
 
