@@ -7,7 +7,7 @@
 
 - 🔭 React
 
-- 🌱 I’m currently learning **Mongo and React**
+- 🌱 I’m currently learning **MERN**
 
 - 👨‍💻 All of my projects are available at [(www.danielfloresd.com)](https://danielfloresd.github.io/webdeveloper-portfolio/)
 
